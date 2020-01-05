@@ -1,17 +1,19 @@
-# brute force brutal
-# author bartes dwiky
-# clay hacker team
-# python2
+# Brute Force Brutal
+- Coded by Bartes Dwiky
 
-Cara gunakan:
+# Version 1.0
+- No CheckPoint Account
 
-$ pkg install python2
-$ pip2 install mechanize
-$ python2 BFB.py
+# Contactme
+- https://www.instagram.com/bartes_07
+- clayhackerteam404@gmail.com
 
-Done :)
+# Website / Forum
+- http://www.ootopia.id/
+- http://www.i-zone.co.in/
 
-Jika ada kesalahan atau yang ingin bertanya silahkan contact
-
-: bartesdwiky201@gmail.com
-
+# Thanks To
+- CCP Programmers
+- ClayHackerTeam
+- IndoSec
+- DevlinCyberTeam
